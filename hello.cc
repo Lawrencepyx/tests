@@ -1,10 +1,7 @@
 // 'Hello World!' program
 
 #include <iostream>
-// 'Hello World!' program
+using namespace std;
 
-#include <iostream>
-// 'Hello World!' program
-
-#include <iostream>
+cout << "Hello World!";
 
